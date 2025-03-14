@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Machine Learning**, **Natural Language Processing**, and **Computer Vision.**
+- 👯 I’m looking to collaborate on **Indonesian local language translation.**
