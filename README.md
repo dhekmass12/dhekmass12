@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Data Science**, **Natural Language Processing**, **Computer Vision**, and **Gen AI**.
+- 🌱 I’m currently learning **Data Science**, **Spoken Language Processing**, **Natural Language Processing**, **Computer Vision**, and **Gen AI**.
 - 👯 I’m looking to collaborate on **Indonesian local language translation**.
