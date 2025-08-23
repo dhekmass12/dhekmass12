@@ -1,3 +1,6 @@
+[![GitHub contributors](https://img.shields.io/github/contributors/dhekmass12/dhekmass12)](https://github.com/dhekmass12/dhekmass12/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/dhekmass12/dhekmass12)](https://github.com/dhekmass12/dhekmass12/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/dhekmass12/dhekmass12/pulls) [![HitCount](https://views.whatilearened.today/views/github/dhekmass12/dhekmass12.svg)](https://github.com/dhekmass12/dhekmass12) [![website dhekmass12.github.io](https://img.shields.io/website-up-down-green-red/http/dhekmass12.github.io/dhekmass12.svg)](https://dhekmass12.github.io/dhekmass12/)
+
+
 # 💫 About Me:
 🌱 I’m currently learning **Data Science**, **Spoken Language Processing**, **Natural Language Processing**, **Computer Vision**, and **Gen AI**.<br>
 👯 I’m looking to collaborate on **Indonesian local language translation**.
