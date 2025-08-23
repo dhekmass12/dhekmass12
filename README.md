@@ -2,6 +2,9 @@
 
 
 # 💫 About Me:
+Hi there! 👋<br>
+You can call me Dimas 😁<br><br>
+🤌🏻 I like Machine Learning.<br>
 🌱 I’m currently learning **Data Science**, **Spoken Language Processing**, **Natural Language Processing**, **Computer Vision**, and **Gen AI**.<br>
 👯 I’m looking to collaborate on **Indonesian local language translation**.
 
