@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekmass12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ✍️ Favorite Quote
-“When you want to succeed as bad as you want to breathe, then you will be successful”, Eric Thomas.
+“When you want to succeed as bad as you want to breathe, then you will be successful.” — Eric Thomas.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
